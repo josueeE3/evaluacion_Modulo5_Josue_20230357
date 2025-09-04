@@ -30,3 +30,6 @@ Esta aplicación móvil fue desarrollada como parte de la evaluación práctica 
   "react-native-screens": "^4.15.4",
   "react-native-vector-icons": "^10.3.0"
 }
+
+## Imagen donde se ven los usuarios en firebase
+<img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/de3a9357-649a-4255-9776-dc966fd48126" />
